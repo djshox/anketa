@@ -1,0 +1,10 @@
+#sidebar {
+    height: calc(100vh - 60px);
+}
+#sidebar a{
+    color: #aaa;
+}
+
+#sidebar a.active{
+    color: white;
+}
