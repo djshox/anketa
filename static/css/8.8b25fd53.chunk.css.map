@@ -1,0 +1,1 @@
+{"version":3,"sources":["head.css","sidebar.css"],"names":[],"mappings":"AAAA,MACI,WAAY,CACZ,gBACJ,CCHA,SACI,yBACJ,CACA,WACI,UACJ,CAEA,kBACI,UACJ","file":"8.8b25fd53.chunk.css","sourcesContent":["#head {\n    height: 60px;\n    line-height: 50px;\n}","#sidebar {\n    height: calc(100vh - 60px);\n}\n#sidebar a{\n    color: #aaa;\n}\n\n#sidebar a.active{\n    color: white;\n}"]}
