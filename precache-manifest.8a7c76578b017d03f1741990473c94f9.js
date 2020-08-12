@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "383107108925f6c1700f85f69b5b6a5c",
+    "revision": "eed2337236dd6087e56c115dfb2c66da",
     "url": "/anketa/index.html"
   },
   {
-    "revision": "9251e2d2521c5d9e8c39",
+    "revision": "63a25e7493db8ee33230",
     "url": "/anketa/static/css/4.565387ca.chunk.css"
   },
   {
@@ -16,11 +16,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/anketa/static/css/7.944bd02f.chunk.css"
   },
   {
-    "revision": "68ce04c798fc39a5bdb4",
+    "revision": "9dd8678c6fcfb7d161fc",
     "url": "/anketa/static/css/8.8b25fd53.chunk.css"
   },
   {
-    "revision": "f8b818d8394472bef6e2",
+    "revision": "89d9c231485608c84a5c",
     "url": "/anketa/static/css/main.f0c546ef.chunk.css"
   },
   {
@@ -52,12 +52,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/anketa/static/js/3.f56a6a5c.chunk.js"
   },
   {
-    "revision": "9251e2d2521c5d9e8c39",
-    "url": "/anketa/static/js/4.c51e7401.chunk.js"
+    "revision": "63a25e7493db8ee33230",
+    "url": "/anketa/static/js/4.5dbd0df5.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/anketa/static/js/4.c51e7401.chunk.js.LICENSE.txt"
+    "url": "/anketa/static/js/4.5dbd0df5.chunk.js.LICENSE.txt"
   },
   {
     "revision": "98d44298b8955526de7b",
@@ -76,20 +76,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/anketa/static/js/7.374e14e1.chunk.js"
   },
   {
-    "revision": "68ce04c798fc39a5bdb4",
-    "url": "/anketa/static/js/8.8ccbd6aa.chunk.js"
+    "revision": "9dd8678c6fcfb7d161fc",
+    "url": "/anketa/static/js/8.494c1023.chunk.js"
   },
   {
     "revision": "7dd31e08f678022a91e6",
     "url": "/anketa/static/js/9.0b359929.chunk.js"
   },
   {
-    "revision": "f8b818d8394472bef6e2",
-    "url": "/anketa/static/js/main.a9ea8e16.chunk.js"
+    "revision": "89d9c231485608c84a5c",
+    "url": "/anketa/static/js/main.8082012d.chunk.js"
   },
   {
-    "revision": "5a16a75055ac62bcb486",
-    "url": "/anketa/static/js/runtime-main.33cf6c3c.js"
+    "revision": "0e6eb04d80b160cea16b",
+    "url": "/anketa/static/js/runtime-main.b0a89ac4.js"
   },
   {
     "revision": "b02bdc1b846fd65473922f5f62832108",

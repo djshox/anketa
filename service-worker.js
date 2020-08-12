@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/anketa/precache-manifest.f946dde0058b7b3bb266f86ce5c44017.js"
+  "/anketa/precache-manifest.8a7c76578b017d03f1741990473c94f9.js"
 );
 
 self.addEventListener('message', (event) => {
