@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eed2337236dd6087e56c115dfb2c66da",
+    "revision": "6e197e2d3a2bff24763b907602c88b26",
     "url": "/anketa/index.html"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/anketa/static/css/8.8b25fd53.chunk.css"
   },
   {
-    "revision": "89d9c231485608c84a5c",
+    "revision": "f54d01a60307cab4f1db",
     "url": "/anketa/static/css/main.f0c546ef.chunk.css"
   },
   {
@@ -84,8 +84,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/anketa/static/js/9.0b359929.chunk.js"
   },
   {
-    "revision": "89d9c231485608c84a5c",
-    "url": "/anketa/static/js/main.8082012d.chunk.js"
+    "revision": "f54d01a60307cab4f1db",
+    "url": "/anketa/static/js/main.e0a57e99.chunk.js"
   },
   {
     "revision": "0e6eb04d80b160cea16b",
